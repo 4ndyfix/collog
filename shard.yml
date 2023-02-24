@@ -1,0 +1,12 @@
+name: collog
+version: 0.1.0
+
+authors:
+  - 4ndyfix <4ndy@online.de>
+
+crystal: 1.6.2
+dependencies:
+  stdio:
+    github: mosop/stdio
+    
+license: MIT
