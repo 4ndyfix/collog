@@ -9,6 +9,8 @@ But it is also possible to customize all log levels and all format fields.
 This is done by monkey-patching the standard log library. 
 For further examples have a look at the specs.
 
+[![Crystal CI](https://github.com/4ndyfix/collog/actions/workflows/crystal.yml/badge.svg)](https://github.com/4ndyfix/collog/actions/workflows/crystal.yml)
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
