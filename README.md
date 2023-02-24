@@ -10,6 +10,7 @@ This is done by monkey-patching the standard log library.
 For further examples have a look at the specs.
 
 [![Crystal CI](https://github.com/4ndyfix/collog/actions/workflows/crystal.yml/badge.svg)](https://github.com/4ndyfix/collog/actions/workflows/crystal.yml)
+[![GitHub release](https://img.shields.io/github/release/4ndyfix/collog.svg)](https://github.com/4ndyfix/collog/releases)
 
 ## Installation
 
